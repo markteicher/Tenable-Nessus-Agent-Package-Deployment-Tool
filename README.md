@@ -1,2 +1,10 @@
 # Tenable-Nessus-Agent-Package-Deployment-Tool
 Tenable Nessus Agent Package Deployment Tool
+
+
+⚠️ Disclaimer
+
+This tool is not an official Tenable product.
+
+Use of this software is not covered by any license, warranty, or support agreement you may have with Tenable.
+
